@@ -11,4 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![Greedfólio](preview.png)
 
-Feito com ♥ by RocketSeat and Greed 
+<p align="center">Feito com ♥ by RocketSeat and Greed </p>
