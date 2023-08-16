@@ -9,6 +9,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-![Greedfólio](./assets/greedfólio.png)
+![Greedfólio](preview.png)
 
 Feito com ♥ by RocketSeat and Greed 
